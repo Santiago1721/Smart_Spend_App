@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150383433986",
+    "project_id": "smart-spend-prototipo-ii",
+    "storage_bucket": "smart-spend-prototipo-ii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150383433986:android:d625a8ed5ff61ee90d4a1b",
+        "android_client_info": {
+          "package_name": "com.example.smart_spend2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBckrMkIvtrC_JSaF9Ly4Eti7IPWBphM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
