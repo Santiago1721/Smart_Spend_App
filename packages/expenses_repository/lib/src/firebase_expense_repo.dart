@@ -49,7 +49,7 @@ class FirebaseExpenseRepo implements ExpenseRepository {
     @override
     Future<void> createExpense(Expense expense)  async {
     try{
-      await categoryCollection
+      await expenseCollection
       .doc(expense.expenseID)
       .set(expense.toEntity().toDocument()
     );
